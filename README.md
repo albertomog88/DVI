@@ -1,3 +1,3 @@
 # DVI
  
-[P1](https://albertomog88.github.io/DVI/P1)
+[Practica 1: MemoryGame](https://albertomog88.github.io/DVI/P1)
